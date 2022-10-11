@@ -62,6 +62,10 @@
 
 #bobject {
   border: red;
-    
-    
+  /* <!-- this code should center your words and box */
+  display: flex;
+  /* justify-content; */
+  align-items: center;
+  align-content: center;
+  
 }
