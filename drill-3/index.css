@@ -1,0 +1,52 @@
+body {
+    height:1800px;
+    width: 99vw;
+}
+
+
+header {
+    background-color: darkgray;
+    height: 100px;
+    width: 99vw;
+    
+}
+
+.text {
+    background-color: lightpink;
+    height: 175px;
+    width: 94vw;
+    word-wrap: break-word;
+    flex-wrap: wrap;
+    padding:40px;
+   
+
+}
+
+.blue {
+    background-color: rgb(68, 68, 245);
+    height: 150px;
+    width: 99vw;
+
+}
+.teal {
+    background-color: lightblue;
+    height: 150px;
+    width: 99vw;
+
+}
+.sand {
+    background-color: lightgreen;
+    height: 150px;
+    width: 99vw;
+
+}
+
+.yellow {
+    background-color: yellow;
+    height: 150px;
+    width: 99vw;
+
+}
+
+
+
